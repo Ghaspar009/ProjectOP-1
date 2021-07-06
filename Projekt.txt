@@ -1,0 +1,4 @@
+Klasa app zawiera metodę main, która łączy wszystko w całość
+Klasa resident, zawiera sposób w jaki przedstawiany jest mieszkaniec
+Klasa PESEL, zawiera metody sprawdzające poprawność numeru pesel
+Pozostałe klasy to testy
